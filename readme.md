@@ -107,7 +107,7 @@ S.O는 대부분 하드웨어적 업무가 많고, 보통 원격지의 S.A나 S.
 ![screenshot](https://mblogthumb-phinf.pstatic.net/MjAxNzAxMDJfNjIg/MDAxNDgzMzUwNzI5MzUw.4Rv0ZYWNY-x9q4J0n-jdJ9EURUVLuG2bBlKLEcbletYg.yXCaaTa58SrEw2hE_-wcCRtQdto7QiyDFfHKtNU8FuQg.JPEG.sbscjy/g-liulian-_%283%29.jpg?type=w800)
 <br>
 배경 원화를 담당한다. 크게는 하늘 위부터 땅 바닥까지 다 관여한다.<br>
-드물게 배경 원화가가 어느정도 3D툴을 사용할줄 알아서, 간단히 모델링한 후 조명을 렌더링해 이미지에 그림을 묘사하기도 했다고.<br>
+드물게 배경 원화가가 어느정도 3D툴을 사용할줄 아는 경우에는 간단히 모델링한 배경에 조명을 렌더링해 이미지에 그림을 묘사하기도 했다고.<br>
 건물들이 주로 그려진 일러스트의 경우 시점이나 구도가 어긋나면 어색해진다고 한다.<br>
 
 ### 일러스트 레이터

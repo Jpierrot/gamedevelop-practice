@@ -17,7 +17,7 @@
 ## **게임 제작(Unity Client)**
    
    
-## 행성 키우기 모작 2021.5(2D)   
+**행성 키우기 모작 2021.5(2D)**   
 ![캡처](https://cdn.discordapp.com/attachments/892285347352936470/930485728905932820/unknown.png)
 + 장르 : 아케이드, 액션
 + https://youtu.be/6mKAE0EJXsI

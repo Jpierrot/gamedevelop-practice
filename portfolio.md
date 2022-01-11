@@ -83,7 +83,7 @@
 
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491981010960504/unknown.png)  
 
-![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930511514442543104/unknown.png) 
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930511112175247421/unknown.png) 
 
 + **3D**
 + 장르 : 아케이드, 레이싱

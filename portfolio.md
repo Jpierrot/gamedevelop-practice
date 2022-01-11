@@ -53,7 +53,12 @@
 
 
 ## 조랭이 피하기
-![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930489210517995590/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930509620991102976/unknown.png)  
+
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930489210517995590/unknown.png)  
+
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930510038890577920/unknown.png)
+
 + **2D**
 + 장르 : 아케이드
 + https://youtu.be/4PjilXjgy2c   

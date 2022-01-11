@@ -17,7 +17,7 @@
 # 게임 제작(Unity Client)
    
    
-### 행성 키우기 모작 2021.5(2D)   
+## 행성 키우기 모작 2021.5(2D)   
 ![캡처](https://cdn.discordapp.com/attachments/892285347352936470/930485728905932820/unknown.png)
 + 장르 : 아케이드, 액션
 + https://youtu.be/6mKAE0EJXsI
@@ -27,7 +27,7 @@
    
       
       
-### 방치형 회사키우기 게임 제작(2D) 
+## 방치형 회사키우기 게임 제작(2D) 
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930487972170702968/unknown.png)
 + 장르 : 경영 시물레이션, 방치형
 + https://youtu.be/JI68IyG-tN4   
@@ -37,7 +37,7 @@
    
    
    
-### 조랭이 피하기(2D)
+## 조랭이 피하기(2D)
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930489210517995590/unknown.png)
 + 장르 : 아케이드
 + https://youtu.be/4PjilXjgy2c   
@@ -55,7 +55,7 @@
    
       
       
-### 바이크 레이싱 게임(3D)
+## 바이크 레이싱 게임(3D)
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491981010960504/unknown.png)
 + 장르 : 아케이드, 레이싱
 + https://youtu.be/VN5hqyQYV9I
@@ -65,7 +65,7 @@
    
    
    
-### VR 방탈출 게임(3D)
+## VR 방탈출 게임(3D)
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)
 + 장르 : 탈출, 스릴러
 + https://youtu.be/wN4LJmwbXUc
@@ -74,7 +74,7 @@
 ---  
    
    
-### 액션 어드벤쳐(3D)
+## 액션 어드벤쳐(3D)
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930490923077492736/unknown.png)
 + 장르 : 액션 어드벤쳐
 + 총을 활용해서 보스를 잡으면 되는 게임

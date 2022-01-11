@@ -21,11 +21,11 @@ https://youtu.be/6mKAE0EJXsI
 행성 키우기 클라이언트를 모티브로 구현(서버 x)
 
 ### 방치형 회사키우기 게임 제작 
-https://youtu.be/JI68IyG-tN4
+https://youtu.be/JI68IyG-tN4   
 회사키우기 모작 
 
 ### 조랭이 피하기 
-https://youtu.be/4PjilXjgy2c
+https://youtu.be/4PjilXjgy2c   
 밈피하기 친구 그림 버전으로 모작   
 </ul>
 ### 3D

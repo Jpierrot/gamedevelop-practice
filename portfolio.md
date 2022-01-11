@@ -41,9 +41,10 @@
 
 ---
     
-**2D**
+
 ## Start-ed
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930487972170702968/unknown.png)
++ **2D**
 + 장르 : 경영 시물레이션, 방치형
 + https://youtu.be/JI68IyG-tN4   
 + 회사키우기 모작  

@@ -14,7 +14,7 @@
 ## 게임(Unity Client)
 
 ### 2D
-
+<ul>
 ### 행성 키우기 모작 2021.5
 ![캡처](https://cdn.discordapp.com/attachments/892285347352936470/930485728905932820/unknown.png)
 https://youtu.be/6mKAE0EJXsI
@@ -27,7 +27,7 @@ https://youtu.be/JI68IyG-tN4
 ### 조랭이 피하기 
 https://youtu.be/4PjilXjgy2c
 밈피하기 친구 그림 버전으로 모작
-
+</ul>
 ### 3D
 
 ### 미로탈출 게임 

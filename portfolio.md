@@ -83,6 +83,7 @@
    
 ## VR Escape
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796406682087325736/unknown.png)
 + **3
 + 장르 : 탈출, 스릴러
 + https://youtu.be/wN4LJmwbXUc
@@ -93,6 +94,8 @@
    
 ## Alice-in-Wonderland
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930490923077492736/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930508935696367616/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930508535589122108/unknown.png)
 + **3D**
 + 장르 : 액션 어드벤쳐
 + 총을 활용해서 보스를 잡으면 되는 게임

@@ -63,7 +63,9 @@
    
 
 ### 미로탈출 게임
-![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796405480393670706/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796405480393670706/unknown.png)  
+
+![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796406682087325736/unknown.png) 
 + **3D**
 + 플레이어가 몬스터를 피해서 미로를 탈출하면 클리어 되는 게임
 + 장르 : 스릴러, 퍼즐
@@ -83,9 +85,6 @@
    
 ## VR Escape
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)   
-
-![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796406682087325736/unknown.png)   
-
 + **3
 + 장르 : 탈출, 스릴러
 + https://youtu.be/wN4LJmwbXUc

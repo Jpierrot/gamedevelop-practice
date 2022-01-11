@@ -62,7 +62,7 @@
 ---   
    
 
-### 미로탈출 게임
+## 미로탈출 게임
 ![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796405480393670706/unknown.png)  
 
 ![이미지](https://cdn.discordapp.com/attachments/771566099962920991/796406682087325736/unknown.png) 

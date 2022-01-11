@@ -31,9 +31,10 @@
 
 ---
     
-**2D**
+
 ## 행성 키우기 모작 2021.5
 ![캡처](https://cdn.discordapp.com/attachments/892285347352936470/930485728905932820/unknown.png)
++ **2D**
 + 장르 : 아케이드, 액션
 + https://youtu.be/6mKAE0EJXsI
 + 행성 키우기 클라이언트 기능 몇몇 모작
@@ -80,6 +81,7 @@
    
 ## VR Escape
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)
++ **3
 + 장르 : 탈출, 스릴러
 + https://youtu.be/wN4LJmwbXUc
 + pico sdk를 활용한 vr방탈출 게임.
@@ -89,6 +91,7 @@
    
 ## Alice-in-Wonderland
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930490923077492736/unknown.png)
++ **3D**
 + 장르 : 액션 어드벤쳐
 + 총을 활용해서 보스를 잡으면 되는 게임
 + https://www.youtube.com/watch?v=Sqff393BQE0&ab_channel=%EC%96%91%ED%95%98%EC%A4%80

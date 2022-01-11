@@ -27,7 +27,7 @@
     <li>액션 어드벤쳐 게임(3D)</li>
    </ol>
     
-## 행성 키우기 모작 2021.5(2D)   
+## 행성 키우기 모작 2021.5(2D)
 ![캡처](https://cdn.discordapp.com/attachments/892285347352936470/930485728905932820/unknown.png)
 + 장르 : 아케이드, 액션
 + https://youtu.be/6mKAE0EJXsI
@@ -36,7 +36,7 @@
 ---
     
     
-## 방치형 회사키우기 게임 제작(2D) 
+## 방치형 회사키우기 게임 제작(2D)
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930487972170702968/unknown.png)
 + 장르 : 경영 시물레이션, 방치형
 + https://youtu.be/JI68IyG-tN4   

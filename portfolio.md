@@ -110,7 +110,7 @@
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930508935696367616/unknown.png)   
 
 + **3D**
-+ 장르 : 액션 어드벤쳐
++ 장르 : 액션 어드벤쳐 
 + 총을 활용해서 보스를 잡으면 되는 게임
 + https://www.youtube.com/watch?v=Sqff393BQE0&ab_channel=%EC%96%91%ED%95%98%EC%A4%80
 

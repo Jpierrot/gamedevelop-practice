@@ -36,14 +36,17 @@
 플레이어가 몬스터를 피해서 미로를 탈출하면 클리어 되는 게임
 
 ### 바이크 레이싱 게임
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491981010960504/unknown.png)
 + https://youtu.be/VN5hqyQYV9I
 + 바이크를 타고 트랙을 달려서 ai와 경쟁하는 게임.
 
 ### VR 방탈출 게임
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)
 + https://youtu.be/wN4LJmwbXUc
 + pico sdk를 활용한 vr방탈출 게임.
 
 ### 액션 어드벤쳐
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930490923077492736/unknown.png)
 + 총을 활용해서 보스를 잡으면 되는 게임
 + https://www.youtube.com/watch?v=Sqff393BQE0&ab_channel=%EC%96%91%ED%95%98%EC%A4%80
 

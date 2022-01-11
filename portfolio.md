@@ -79,7 +79,11 @@
 
       
 ## 바이크 레이싱 게임
-![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491981010960504/unknown.png)
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930510454109904956/unknown.png)  
+
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491981010960504/unknown.png)  
+
+![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930511112175247421/unknown.png)
 + **3D**
 + 장르 : 아케이드, 레이싱
 + https://youtu.be/VN5hqyQYV9I
@@ -90,7 +94,7 @@
    
 ## VR Escape
 ![이미지](https://cdn.discordapp.com/attachments/892285347352936470/930491453732438066/unknown.png)   
-+ **3
++ **3D**
 + 장르 : 탈출, 스릴러
 + https://youtu.be/wN4LJmwbXUc
 + pico sdk를 활용한 vr방탈출 게임.

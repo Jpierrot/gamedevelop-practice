@@ -25,9 +25,9 @@
 
 5.[바이크 레이싱 게임(3D)](#boost-on)  
 
-6.[VR 방탈출 게임](#vr-escape)
+6.[VR 방탈출 게임(3D)](#vr-escape)
 
-7.[액션 어드벤쳐](#alice-in-wonderland)
+7.[액션 어드벤쳐(3D)](#alice-in-wonderland)
 
 ---
     

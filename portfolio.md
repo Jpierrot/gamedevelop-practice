@@ -95,6 +95,7 @@
 + 만든 시점 : 2021 08
 + https://youtu.be/VN5hqyQYV9I
 + 바이크를 타고 트랙을 달려서 ai와 경쟁하는 게임.
++ 더 살펴보기 => https://github.com/Jpierrot/BBike/blob/main/README.md
  
 ---
    
